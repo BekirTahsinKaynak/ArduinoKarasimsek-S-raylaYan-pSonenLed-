@@ -1,5 +1,4 @@
-# ArduinoKarasimsek-S-raylaYan-pSonenLed-
-Arduino İle Sıralı Yanıp Sönen Ledler(KaraŞimşek) Kodunu, Bağlantı Şemasını Ve Gerekli Malzemeleri İçerir
+PROJE İÇİN GEREKLİ MALZEMELER
 
 1 ADET ARDUİNO
 1 ADET BREAD BOARD
